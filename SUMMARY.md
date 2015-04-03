@@ -20,6 +20,7 @@
        * Transformatori, primena i upotreba
        * Dioda
        * Tranzistor
+       * Toplotna disipacija
 * Pravila i postupci
 * Propisi o amaterskoj i amaterskoj satelitskoj službi
 
