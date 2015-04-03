@@ -23,6 +23,7 @@
        * Toplotna disipacija
        * Ostalo-razno
    * ELEKTRONSKI SKLOPOVI (elektronska kola)
+       * Kombinacije komponenti
 * Pravila i postupci
 * Propisi o amaterskoj i amaterskoj satelitskoj službi
 
