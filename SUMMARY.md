@@ -54,7 +54,7 @@
        * [Smetnje koje se javljaju na elektronskim uređajima](smetnje_koje_se_javljaju_na_elektronskim_uredajima.md)
        * [Uzroci smetnji na el.uređajima](uzroci_smetnji_na_eluredajima.md)
        * [Mere zaštite od smetnji](mere_zastite_od_smetnji.md)
-   * ZAŠTITA OD ELEKTRIČNE STRUJE (Mere tehničke zaštite)
+   * [ZAŠTITA OD ELEKTRIČNE STRUJE (Mere tehničke zaštite)](zastita_od_elektricne_struje_mere_tehnicke_zastite.md)
 * NACIONALNA (SRPSKA) I MEĐUNARODNA PRAVILA I POSTUPCI
    * Fonetska abeceda
    * Q-kôd
