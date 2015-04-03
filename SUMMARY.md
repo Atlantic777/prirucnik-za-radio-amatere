@@ -60,7 +60,7 @@
    * [Skraćenice koje se upotrebljavaju u amaterskoj službi](skracenice_koje_se_upotrebljavaju_u_amaterskoj_sluzbi.md)
    * [Međunarodni znakovi za nesreće, saobraćaj u slučajevima opasnosti i komunikacije u slučajevima prirodnih katastrofa](medunarodni_znakovi_za_nesrece,_saobracaj_u_slucajevima_opasnosti_i_komunikacije_u_slucajevima_prirodnih_katastrofa.md)
    * [Pozivni znaci](pozivni_znaci.md)
-   * IARU plan frekvencijskih opsega, preporuke IARU
+   * [IARU plan frekvencijskih opsega, preporuke IARU](iaru_plan_frekvencijskih_opsega,_preporuke_iaru.md)
    * Označavanje radio-emisija
    * Društveni značaj i operativne procedure
 * NACIONALNI (SRPSKI) I MEĐUNARODNI PROPISI O AMATERSKOJ I AMATERSKOJ SATELITSKOJ SLUŽBI
