@@ -47,7 +47,7 @@
        * [Karakteristike antena](karakteristike_antena.md)
        * [Antenski vodovi (vodovi za napajanje)](antenski_vodovi_vodovi_za_napajanje.md)
    * [PROSTIRANJE ELEKTROMAGNETNIH TALASA](prostiranje_elektromagnetnih_talasa.md)
-   * MERENJA
+   * [MERENJA](merenja.md)
        * Načini merenja
        * Merni instrumenti
    * SMETNJE I ZAŠTITA OD SMETNJI
