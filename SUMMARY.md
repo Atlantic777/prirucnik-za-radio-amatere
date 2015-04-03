@@ -54,6 +54,6 @@
        * Uzroci smetnji na el.uređajima
        * Mere zaštite od smetnji
    * ZAŠTITA OD ELEKTRIČNE STRUJE (Mere tehničke zaštite)
-* Pravila i postupci
+* NACIONALNA (SRPSKA) I MEĐUNARODNA PRAVILA I POSTUPCI
 * Propisi o amaterskoj i amaterskoj satelitskoj službi
 
