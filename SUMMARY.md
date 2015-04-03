@@ -26,7 +26,7 @@
    * [ELEKTRONSKI SKLOPOVI (elektronska kola)](elektronski_sklopovi_elektronska_kola.md)
        * [Kombinacije komponenti](kombinacije_komponenti.md)
        * [Filter](filter.md)
-       * Izvori napajanja (ispravljači)
+       * [Izvori napajanja (ispravljači)](izvori_napajanja_ispravljaci.md)
        * Pojačavač
        * Detektor
        * Oscilator
