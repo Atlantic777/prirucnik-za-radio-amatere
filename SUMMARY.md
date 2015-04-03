@@ -58,5 +58,6 @@
    * Fonetska abeceda
    * Q-kôd
    * Skraćenice koje se upotrebljavaju u amaterskoj službi
+   * Međunarodni znakovi za nesreće, saobraćaj u slučajevima opasnosti i komunikacije u slučajevima prirodnih katastrofa
 * Propisi o amaterskoj i amaterskoj satelitskoj službi
 
