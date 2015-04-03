@@ -37,6 +37,7 @@
        * Princip rada i funkcija (po stepenima prijemnika)
        * Karakteristike prijemnika
    * PREDAJNICI
+       * Vrste
 * Pravila i postupci
 * Propisi o amaterskoj i amaterskoj satelitskoj službi
 
