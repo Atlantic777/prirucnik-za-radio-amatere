@@ -28,7 +28,7 @@
        * [Filter](filter.md)
        * [Izvori napajanja (ispravljači)](izvori_napajanja_ispravljaci.md)
        * [Pojačavač](pojacavac.md)
-       * Detektor
+       * [Detektor](detektor.md)
        * Oscilator
        * Fazno zatvorena petlja (PLL)
        * Diskretni vremenski signali i sistemi (DSP sistemi)
