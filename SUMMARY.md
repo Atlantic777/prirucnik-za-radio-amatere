@@ -30,6 +30,7 @@
        * Detektor
        * Oscilator
        * Fazno zatvorena petlja (PLL)
+       * Diskretni vremenski signali i sistemi (DSP sistemi) 
 * Pravila i postupci
 * Propisi o amaterskoj i amaterskoj satelitskoj službi
 
