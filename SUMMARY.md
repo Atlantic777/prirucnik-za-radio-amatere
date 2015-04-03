@@ -62,7 +62,7 @@
    * [Pozivni znaci](pozivni_znaci.md)
    * [IARU plan frekvencijskih opsega, preporuke IARU](iaru_plan_frekvencijskih_opsega,_preporuke_iaru.md)
    * [Označavanje radio-emisija](oznacavanje_radio-emisija.md)
-   * Društveni značaj i operativne procedure
+   * [Društveni značaj i operativne procedure](drustveni_znacaj_i_operativne_procedure.md)
 * NACIONALNI (SRPSKI) I MEĐUNARODNI PROPISI O AMATERSKOJ I AMATERSKOJ SATELITSKOJ SLUŽBI
    * Radio-komunikacioni propisi ITU (ITU-RR)
    * Propisi CEPT-a
