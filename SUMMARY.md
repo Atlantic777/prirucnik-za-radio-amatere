@@ -18,6 +18,7 @@
        * Kondenzator
        * Zavojnica
        * Transformatori, primena i upotreba
+       * Dioda
 * Pravila i postupci
 * Propisi o amaterskoj i amaterskoj satelitskoj službi
 
