@@ -9,7 +9,7 @@
        * [Magnetno polje](magnetno_polje.md)
        * [Elektromagnetno polje](elektromagnetno_polje.md)
        * [Sinusoidalni signal](sinusoidalni_signal.md)
-       * Nesinusoidalni signal
+       * [Nesinusoidalni signal](nesinusoidalni_signal.md)
        * Modulisani signal
        * Snaga i energija
        * Digitalna obrada signala (DSP)
