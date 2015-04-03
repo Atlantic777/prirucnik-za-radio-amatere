@@ -50,6 +50,7 @@
        * Načini merenja
        * Merni instrumenti
    * SMETNJE I ZAŠTITA OD SMETNJI
+       * Smetnje koje se javljaju na elektronskim uređajima
 * Pravila i postupci
 * Propisi o amaterskoj i amaterskoj satelitskoj službi
 
