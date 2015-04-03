@@ -40,7 +40,7 @@
    * [PREDAJNICI](predajnici.md)
        * [Vrste](vrste.md)
        * [Blok šeme](blok_seme.md)
-       * Princip rada i funkcija (po stepenima predajnika)
+       * [Princip rada i funkcija (po stepenima predajnika)](princip_rada_i_funkcija_po_stepenima_predajnika.md)
        * Karakteristike predajnika
    * ANTENE I VODOVI ZA NAPAJANJE
        * Vrste antena
