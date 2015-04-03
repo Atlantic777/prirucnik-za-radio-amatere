@@ -1,5 +1,5 @@
 # Summary
 
 * [Uvod](README.md)
-* [First Chapter](chapter1.md)
+* [Poznavanje Tehnike](chapter1.md)
 
