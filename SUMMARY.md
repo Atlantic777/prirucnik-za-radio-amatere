@@ -11,6 +11,7 @@
        * Sinusoidalni signal
        * Nesinusoidalni signal
        * Modulisani signal
+       * Snaga i energija
 * Pravila i postupci
 * Propisi o amaterskoj i amaterskoj satelitskoj službi
 
