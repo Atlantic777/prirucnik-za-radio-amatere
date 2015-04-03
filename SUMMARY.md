@@ -23,7 +23,7 @@
        * [Tranzistor](tranzistor.md)
        * [Toplotna disipacija](toplotna_disipacija.md)
        * [Ostalo-razno](ostalo-razno.md)
-   * ELEKTRONSKI SKLOPOVI (elektronska kola)
+   * [ELEKTRONSKI SKLOPOVI (elektronska kola)](elektronski_sklopovi_elektronska_kola.md)
        * Kombinacije komponenti
        * Filter
        * Izvori napajanja (ispravljači)
