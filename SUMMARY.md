@@ -13,7 +13,7 @@
        * [Modulisani signal](modulisani_signal.md)
        * [Snaga i energija](snaga_i_energija.md)
        * [Digitalna obrada signala (DSP)](digitalna_obrada_signala_dsp.md)
-   * KOMPONENTE
+   * [KOMPONENTE](komponente.md)
        * Otpornik
        * Kondenzator
        * Zavojnica
