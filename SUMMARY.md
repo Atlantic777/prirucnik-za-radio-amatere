@@ -48,7 +48,7 @@
        * [Antenski vodovi (vodovi za napajanje)](antenski_vodovi_vodovi_za_napajanje.md)
    * [PROSTIRANJE ELEKTROMAGNETNIH TALASA](prostiranje_elektromagnetnih_talasa.md)
    * [MERENJA](merenja.md)
-       * Načini merenja
+       * [Načini merenja](nacini_merenja.md)
        * Merni instrumenti
    * SMETNJE I ZAŠTITA OD SMETNJI
        * Smetnje koje se javljaju na elektronskim uređajima
