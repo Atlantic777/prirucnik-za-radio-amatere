@@ -33,6 +33,7 @@
        * Diskretni vremenski signali i sistemi (DSP sistemi)
    * PRIJEMNICI
        * Vrste
+       * Blok šeme
 * Pravila i postupci
 * Propisi o amaterskoj i amaterskoj satelitskoj službi
 
