@@ -13,6 +13,7 @@
        * Modulisani signal
        * Snaga i energija
        * Digitalna obrada signala (DSP)
+   * KOMPONENTE
 * Pravila i postupci
 * Propisi o amaterskoj i amaterskoj satelitskoj službi
 
