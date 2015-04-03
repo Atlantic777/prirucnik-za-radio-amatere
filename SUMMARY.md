@@ -11,7 +11,7 @@
        * [Sinusoidalni signal](sinusoidalni_signal.md)
        * [Nesinusoidalni signal](nesinusoidalni_signal.md)
        * [Modulisani signal](modulisani_signal.md)
-       * Snaga i energija
+       * [Snaga i energija](snaga_i_energija.md)
        * Digitalna obrada signala (DSP)
    * KOMPONENTE
        * Otpornik
