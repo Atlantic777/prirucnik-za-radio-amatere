@@ -31,7 +31,7 @@
        * [Detektor](detektor.md)
        * [Oscilator](oscilator.md)
        * [Fazno zatvorena petlja (PLL)](fazno_zatvorena_petlja_pll.md)
-       * Diskretni vremenski signali i sistemi (DSP sistemi)
+       * [Diskretni vremenski signali i sistemi (DSP sistemi)](diskretni_vremenski_signali_i_sistemi_dsp_sistemi.md)
    * PRIJEMNICI
        * Vrste
        * Blok šeme
