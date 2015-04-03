@@ -38,6 +38,7 @@
        * Karakteristike prijemnika
    * PREDAJNICI
        * Vrste
+       * Blok šeme
 * Pravila i postupci
 * Propisi o amaterskoj i amaterskoj satelitskoj službi
 
