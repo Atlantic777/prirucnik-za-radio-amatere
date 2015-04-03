@@ -39,7 +39,7 @@
        * [Karakteristike prijemnika](karakteristike_prijemnika.md)
    * [PREDAJNICI](predajnici.md)
        * [Vrste](vrste_predajnika.md)
-       * [Blok šeme](blok_seme.md)
+       * [Blok šeme](blok_seme_predajnika.md)
        * [Princip rada i funkcija (po stepenima predajnika)](princip_rada_i_funkcija_po_stepenima_predajnika.md)
        * [Karakteristike predajnika](karakteristike_predajnika.md)
    * ANTENE I VODOVI ZA NAPAJANJE
