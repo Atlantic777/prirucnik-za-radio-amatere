@@ -30,7 +30,7 @@
        * [Pojačavač](pojacavac.md)
        * [Detektor](detektor.md)
        * [Oscilator](oscilator.md)
-       * Fazno zatvorena petlja (PLL)
+       * [Fazno zatvorena petlja (PLL)](fazno_zatvorena_petlja_pll.md)
        * Diskretni vremenski signali i sistemi (DSP sistemi)
    * PRIJEMNICI
        * Vrste
