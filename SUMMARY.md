@@ -24,7 +24,7 @@
        * [Toplotna disipacija](toplotna_disipacija.md)
        * [Ostalo-razno](ostalo-razno.md)
    * [ELEKTRONSKI SKLOPOVI (elektronska kola)](elektronski_sklopovi_elektronska_kola.md)
-       * Kombinacije komponenti
+       * [Kombinacije komponenti](kombinacije_komponenti.md)
        * Filter
        * Izvori napajanja (ispravljači)
        * Pojačavač
