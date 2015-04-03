@@ -12,6 +12,7 @@
        * Nesinusoidalni signal
        * Modulisani signal
        * Snaga i energija
+       * Digitalna obrada signala (DSP)
 * Pravila i postupci
 * Propisi o amaterskoj i amaterskoj satelitskoj službi
 
