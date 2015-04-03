@@ -14,6 +14,7 @@
        * Snaga i energija
        * Digitalna obrada signala (DSP)
    * KOMPONENTE
+       * Otpornik
 * Pravila i postupci
 * Propisi o amaterskoj i amaterskoj satelitskoj službi
 
