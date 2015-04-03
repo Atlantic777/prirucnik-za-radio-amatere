@@ -27,6 +27,7 @@
        * Filter
        * Izvori napajanja (ispravljači)
        * Pojačavač
+       * Detektor
 * Pravila i postupci
 * Propisi o amaterskoj i amaterskoj satelitskoj službi
 
