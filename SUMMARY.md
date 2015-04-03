@@ -65,4 +65,5 @@
    * Društveni značaj i operativne procedure
 * NACIONALNI (SRPSKI) I MEĐUNARODNI PROPISI O AMATERSKOJ I AMATERSKOJ SATELITSKOJ SLUŽBI
    * Radio-komunikacioni propisi ITU (ITU-RR)
+   * Propisi CEPT-a
 
