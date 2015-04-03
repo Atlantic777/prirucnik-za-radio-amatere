@@ -41,6 +41,7 @@
        * Blok šeme
        * Princip rada i funkcija (po stepenima predajnika)
        * Karakteristike predajnika
+   * ANTENE I VODOVI ZA NAPAJANJE
 * Pravila i postupci
 * Propisi o amaterskoj i amaterskoj satelitskoj službi
 
