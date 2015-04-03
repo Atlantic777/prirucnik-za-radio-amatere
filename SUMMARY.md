@@ -58,7 +58,7 @@
    * [Fonetska abeceda](fonetska_abeceda.md)
    * [Q-kôd](q-kod.md)
    * [Skraćenice koje se upotrebljavaju u amaterskoj službi](skracenice_koje_se_upotrebljavaju_u_amaterskoj_sluzbi.md)
-   * Međunarodni znakovi za nesreće, saobraćaj u slučajevima opasnosti i komunikacije u slučajevima prirodnih katastrofa
+   * [Međunarodni znakovi za nesreće, saobraćaj u slučajevima opasnosti i komunikacije u slučajevima prirodnih katastrofa](medunarodni_znakovi_za_nesrece,_saobracaj_u_slucajevima_opasnosti_i_komunikacije_u_slucajevima_prirodnih_katastrofa.md)
    * Pozivni znaci
    * IARU plan frekvencijskih opsega, preporuke IARU
    * Označavanje radio-emisija
