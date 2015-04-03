@@ -24,6 +24,7 @@
        * Ostalo-razno
    * ELEKTRONSKI SKLOPOVI (elektronska kola)
        * Kombinacije komponenti
+       * Filter
 * Pravila i postupci
 * Propisi o amaterskoj i amaterskoj satelitskoj službi
 
