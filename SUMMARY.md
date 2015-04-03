@@ -32,7 +32,7 @@
        * [Oscilator](oscilator.md)
        * [Fazno zatvorena petlja (PLL)](fazno_zatvorena_petlja_pll.md)
        * [Diskretni vremenski signali i sistemi (DSP sistemi)](diskretni_vremenski_signali_i_sistemi_dsp_sistemi.md)
-   * PRIJEMNICI
+   * [PRIJEMNICI](prijemnici.md)
        * Vrste
        * Blok šeme
        * Princip rada i funkcija (po stepenima prijemnika)
