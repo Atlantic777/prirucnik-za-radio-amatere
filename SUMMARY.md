@@ -16,7 +16,7 @@
    * [KOMPONENTE](komponente.md)
        * [Otpornik](otpornik.md)
        * [Kondenzator](kondenzator.md)
-       * Zavojnica
+       * [Zavojnica](zavojnica.md)
        * Transformatori, primena i upotreba
        * Dioda
        * Tranzistor
