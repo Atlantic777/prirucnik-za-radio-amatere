@@ -1,11 +1,11 @@
 # Nesinusoidalni signal
--Audio signali
+-Audio signali.
 
--Pravougaoni talasni oblik
+-Pravougaoni talasni oblik.
 
--Grafički prikaz u vremenu
+-Grafički prikaz u vremenu.
 
--Naponska komponenta jednosmerne struje, osnovni talas i viši harmonici
+-Naponska komponenta jednosmerne struje, osnovni talas i viši harmonici.
 
--Šum $$P_N=kTB$$ (termički šum prijemnika, šum frekv.opsega, gustina šuma, snaga šuma u propusnom opsegu prijemnika)
+-Šum $$P_N=kTB$$ (termički šum prijemnika, šum frekv.opsega, gustina šuma, snaga šuma u propusnom opsegu prijemnika).
 
