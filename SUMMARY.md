@@ -44,7 +44,7 @@
        * [Karakteristike predajnika](karakteristike_predajnika.md)
    * [ANTENE I VODOVI ZA NAPAJANJE](antene_i_vodovi_za_napajanje.md)
        * [Vrste antena](vrste_antena.md)
-       * Karakteristike antena
+       * [Karakteristike antena](karakteristike_antena.md)
        * Antenski vodovi (vodovi za napajanje)
    * PROSTIRANJE ELEKTROMAGNETNIH TALASA
    * MERENJA
