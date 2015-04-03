@@ -49,7 +49,7 @@
    * [PROSTIRANJE ELEKTROMAGNETNIH TALASA](prostiranje_elektromagnetnih_talasa.md)
    * [MERENJA](merenja.md)
        * [Načini merenja](nacini_merenja.md)
-       * Merni instrumenti
+       * [Merni instrumenti](merni_instrumenti.md)
    * SMETNJE I ZAŠTITA OD SMETNJI
        * Smetnje koje se javljaju na elektronskim uređajima
        * Uzroci smetnji na el.uređajima
