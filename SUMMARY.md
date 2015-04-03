@@ -21,6 +21,7 @@
        * Dioda
        * Tranzistor
        * Toplotna disipacija
+       * Ostalo-razno
 * Pravila i postupci
 * Propisi o amaterskoj i amaterskoj satelitskoj službi
 
