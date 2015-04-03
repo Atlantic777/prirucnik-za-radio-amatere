@@ -26,6 +26,7 @@
        * Kombinacije komponenti
        * Filter
        * Izvori napajanja (ispravljači)
+       * Pojačavač
 * Pravila i postupci
 * Propisi o amaterskoj i amaterskoj satelitskoj službi
 
