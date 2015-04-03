@@ -15,7 +15,7 @@
        * [Digitalna obrada signala (DSP)](digitalna_obrada_signala_dsp.md)
    * [KOMPONENTE](komponente.md)
        * [Otpornik](otpornik.md)
-       * Kondenzator
+       * [Kondenzator](kondenzator.md)
        * Zavojnica
        * Transformatori, primena i upotreba
        * Dioda
