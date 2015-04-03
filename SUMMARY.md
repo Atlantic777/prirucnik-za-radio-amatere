@@ -40,6 +40,7 @@
        * Vrste
        * Blok šeme
        * Princip rada i funkcija (po stepenima predajnika)
+       * Karakteristike predajnika
 * Pravila i postupci
 * Propisi o amaterskoj i amaterskoj satelitskoj službi
 
