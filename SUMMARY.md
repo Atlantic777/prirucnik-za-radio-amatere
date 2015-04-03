@@ -46,6 +46,7 @@
        * Karakteristike antena
        * Antenski vodovi (vodovi za napajanje)
    * PROSTIRANJE ELEKTROMAGNETNIH TALASA
+   * MERENJA
 * Pravila i postupci
 * Propisi o amaterskoj i amaterskoj satelitskoj službi
 
