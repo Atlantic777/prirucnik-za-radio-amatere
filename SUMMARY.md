@@ -34,6 +34,7 @@
    * PRIJEMNICI
        * Vrste
        * Blok šeme
+       * Princip rada i funkcija (po stepenima prijemnika)
 * Pravila i postupci
 * Propisi o amaterskoj i amaterskoj satelitskoj službi
 
