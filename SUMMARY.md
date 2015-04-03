@@ -61,5 +61,6 @@
    * Međunarodni znakovi za nesreće, saobraćaj u slučajevima opasnosti i komunikacije u slučajevima prirodnih katastrofa
    * Pozivni znaci
    * IARU plan frekvencijskih opsega, preporuke IARU
+   * Označavanje radio-emisija
 * Propisi o amaterskoj i amaterskoj satelitskoj službi
 
