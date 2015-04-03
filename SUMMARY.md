@@ -25,6 +25,7 @@
    * ELEKTRONSKI SKLOPOVI (elektronska kola)
        * Kombinacije komponenti
        * Filter
+       * Izvori napajanja (ispravljači)
 * Pravila i postupci
 * Propisi o amaterskoj i amaterskoj satelitskoj službi
 
