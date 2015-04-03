@@ -27,7 +27,7 @@
        * [Kombinacije komponenti](kombinacije_komponenti.md)
        * [Filter](filter.md)
        * [Izvori napajanja (ispravljači)](izvori_napajanja_ispravljaci.md)
-       * Pojačavač
+       * [Pojačavač](pojacavac.md)
        * Detektor
        * Oscilator
        * Fazno zatvorena petlja (PLL)
