@@ -22,6 +22,7 @@
        * Tranzistor
        * Toplotna disipacija
        * Ostalo-razno
+   * ELEKTRONSKI SKLOPOVI (elektronska kola)
 * Pravila i postupci
 * Propisi o amaterskoj i amaterskoj satelitskoj službi
 
