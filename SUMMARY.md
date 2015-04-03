@@ -32,6 +32,7 @@
        * Fazno zatvorena petlja (PLL)
        * Diskretni vremenski signali i sistemi (DSP sistemi)
    * PRIJEMNICI
+       * Vrste
 * Pravila i postupci
 * Propisi o amaterskoj i amaterskoj satelitskoj službi
 
