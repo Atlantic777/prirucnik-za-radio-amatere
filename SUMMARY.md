@@ -1,6 +1,6 @@
 # Summary
 
-* [introduction](introduction.md)
+* [introduction](README.md)
 * [Poznavanje Tehnike](Poznavanje_Tehnike.md)
    * [TEORIJA ELEKTRICITETA, ELEKTROMAGNETIZMA I RADIJA](teorija_elektriciteta,_elektromagnetizma_i_radija.md)
        * [Provodnost](provodnost.md)
