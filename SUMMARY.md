@@ -1,7 +1,7 @@
 # Summary
 
 * [Uvod](README.md)
-* [Poznavanje Tehnike](chapter1.md)
+* [Poznavanje Tehnike](Poznavanje_Tehnike.md)
    * [TEORIJA ELEKTRICITETA, ELEKTROMAGNETIZMA I RADIJA](teorija_elektriciteta,_elektromagnetizma_i_radija.md)
        * [Provodnost](provodnost.md)
        * [Izvori elektriciteta](izvori_elektriciteta.md)
