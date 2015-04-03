@@ -1,0 +1,2 @@
+# Nesinusoidalni signal
+
