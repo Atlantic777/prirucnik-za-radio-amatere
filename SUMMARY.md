@@ -6,7 +6,7 @@
        * [Provodnost](provodnost.md)
        * [Izvori elektriciteta](izvori_elektriciteta.md)
        * [Električno polje](elektricno_polje.md)
-       * Magnetno polje
+       * [Magnetno polje](magnetno_polje.md)
        * Elektromagnetno polje
        * Sinusoidalni signal
        * Nesinusoidalni signal
