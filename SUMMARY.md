@@ -17,7 +17,7 @@
        * [Otpornik](otpornik.md)
        * [Kondenzator](kondenzator.md)
        * [Zavojnica](zavojnica.md)
-       * Transformatori, primena i upotreba
+       * [Transformatori, primena i upotreba](transformatori,_primena_i_upotreba.md)
        * Dioda
        * Tranzistor
        * Toplotna disipacija
