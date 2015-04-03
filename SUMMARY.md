@@ -52,6 +52,7 @@
    * SMETNJE I ZAŠTITA OD SMETNJI
        * Smetnje koje se javljaju na elektronskim uređajima
        * Uzroci smetnji na el.uređajima
+       * Mere zaštite od smetnji
 * Pravila i postupci
 * Propisi o amaterskoj i amaterskoj satelitskoj službi
 
