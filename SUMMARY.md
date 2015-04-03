@@ -22,7 +22,7 @@
        * [Dioda](dioda.md)
        * [Tranzistor](tranzistor.md)
        * [Toplotna disipacija](toplotna_disipacija.md)
-       * Ostalo-razno
+       * [Ostalo-razno](ostalo-razno.md)
    * ELEKTRONSKI SKLOPOVI (elektronska kola)
        * Kombinacije komponenti
        * Filter
