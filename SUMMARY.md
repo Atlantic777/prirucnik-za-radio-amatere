@@ -63,5 +63,5 @@
    * IARU plan frekvencijskih opsega, preporuke IARU
    * Označavanje radio-emisija
    * Društveni značaj i operativne procedure
-* Propisi o amaterskoj i amaterskoj satelitskoj službi
+* NACIONALNI (SRPSKI) I MEĐUNARODNI PROPISI O AMATERSKOJ I AMATERSKOJ SATELITSKOJ SLUŽBI
 
