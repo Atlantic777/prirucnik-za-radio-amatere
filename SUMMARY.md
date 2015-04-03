@@ -57,5 +57,6 @@
 * NACIONALNA (SRPSKA) I MEĐUNARODNA PRAVILA I POSTUPCI
    * Fonetska abeceda
    * Q-kôd
+   * Skraćenice koje se upotrebljavaju u amaterskoj službi
 * Propisi o amaterskoj i amaterskoj satelitskoj službi
 
