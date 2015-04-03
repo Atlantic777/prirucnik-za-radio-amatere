@@ -49,6 +49,7 @@
    * MERENJA
        * Načini merenja
        * Merni instrumenti
+   * SMETNJE I ZAŠTITA OD SMETNJI
 * Pravila i postupci
 * Propisi o amaterskoj i amaterskoj satelitskoj službi
 
