@@ -1,0 +1,2 @@
+# Kombinacije komponenti
+
