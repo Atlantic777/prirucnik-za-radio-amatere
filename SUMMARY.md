@@ -56,7 +56,7 @@
    * [ZAŠTITA OD ELEKTRIČNE STRUJE (Mere tehničke zaštite)](zastita_od_elektricne_struje_mere_tehnicke_zastite.md)
 * [NACIONALNA (SRPSKA) I MEĐUNARODNA PRAVILA I POSTUPCI](nacionalna_srpska_i_medunarodna_pravila_i_postupci.md)
    * [Fonetska abeceda](fonetska_abeceda.md)
-   * Q-kôd
+   * [Q-kôd](q-kod.md)
    * Skraćenice koje se upotrebljavaju u amaterskoj službi
    * Međunarodni znakovi za nesreće, saobraćaj u slučajevima opasnosti i komunikacije u slučajevima prirodnih katastrofa
    * Pozivni znaci
