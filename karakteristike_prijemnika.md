@@ -1,0 +1,2 @@
+# Karakteristike prijemnika
+
