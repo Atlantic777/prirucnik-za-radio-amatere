@@ -5,7 +5,7 @@
    * TEORIJA ELEKTRICITETA, ELEKTROMAGNETIZMA I RADIJA
        * [Provodnost](provodnost.md)
        * [Izvori elektriciteta](izvori_elektriciteta.md)
-       * Električno polje
+       * [Električno polje](elektricno_polje.md)
        * Magnetno polje
        * Elektromagnetno polje
        * Sinusoidalni signal
