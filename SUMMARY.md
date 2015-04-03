@@ -3,7 +3,7 @@
 * [Uvod](README.md)
 * [Poznavanje Tehnike](chapter1.md)
    * TEORIJA ELEKTRICITETA, ELEKTROMAGNETIZMA I RADIJA
-       * Provodnost
+       * [Provodnost](provodnost.md)
        * Izvori elektriciteta
        * Električno polje
        * Magnetno polje
