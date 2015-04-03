@@ -7,6 +7,7 @@
        * Izvori elektriciteta
        * Električno polje
        * Magnetno polje
+       * Elektromagnetno polje
 * Pravila i postupci
 * Propisi o amaterskoj i amaterskoj satelitskoj službi
 
