@@ -21,7 +21,7 @@
        * [Transformatori, primena i upotreba](transformatori,_primena_i_upotreba.md)
        * [Dioda](dioda.md)
        * [Tranzistor](tranzistor.md)
-       * Toplotna disipacija
+       * [Toplotna disipacija](toplotna_disipacija.md)
        * Ostalo-razno
    * ELEKTRONSKI SKLOPOVI (elektronska kola)
        * Kombinacije komponenti
