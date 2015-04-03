@@ -52,7 +52,7 @@
        * [Merni instrumenti](merni_instrumenti.md)
    * [SMETNJE I ZAŠTITA OD SMETNJI](smetnje_i_zastita_od_smetnji.md)
        * [Smetnje koje se javljaju na elektronskim uređajima](smetnje_koje_se_javljaju_na_elektronskim_uredajima.md)
-       * Uzroci smetnji na el.uređajima
+       * [Uzroci smetnji na el.uređajima](uzroci_smetnji_na_eluredajima.md)
        * Mere zaštite od smetnji
    * ZAŠTITA OD ELEKTRIČNE STRUJE (Mere tehničke zaštite)
 * NACIONALNA (SRPSKA) I MEĐUNARODNA PRAVILA I POSTUPCI
