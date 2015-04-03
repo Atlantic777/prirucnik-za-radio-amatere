@@ -9,6 +9,7 @@
        * Magnetno polje
        * Elektromagnetno polje
        * Sinusoidalni signal
+       * Nesinusoidalni signal
 * Pravila i postupci
 * Propisi o amaterskoj i amaterskoj satelitskoj službi
 
