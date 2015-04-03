@@ -14,7 +14,7 @@
        * [Snaga i energija](snaga_i_energija.md)
        * [Digitalna obrada signala (DSP)](digitalna_obrada_signala_dsp.md)
    * [KOMPONENTE](komponente.md)
-       * Otpornik
+       * [Otpornik](otpornik.md)
        * Kondenzator
        * Zavojnica
        * Transformatori, primena i upotreba
