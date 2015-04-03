@@ -60,5 +60,6 @@
    * Skraćenice koje se upotrebljavaju u amaterskoj službi
    * Međunarodni znakovi za nesreće, saobraćaj u slučajevima opasnosti i komunikacije u slučajevima prirodnih katastrofa
    * Pozivni znaci
+   * IARU plan frekvencijskih opsega, preporuke IARU
 * Propisi o amaterskoj i amaterskoj satelitskoj službi
 
