@@ -8,7 +8,7 @@
        * Električno polje
        * Magnetno polje
        * Elektromagnetno polje
-       * Sinusoidni signal
+       * Sinusoidalni signal
 * Pravila i postupci
 * Propisi o amaterskoj i amaterskoj satelitskoj službi
 
