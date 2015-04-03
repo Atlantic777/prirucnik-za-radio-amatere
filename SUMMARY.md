@@ -46,7 +46,7 @@
        * [Vrste antena](vrste_antena.md)
        * [Karakteristike antena](karakteristike_antena.md)
        * [Antenski vodovi (vodovi za napajanje)](antenski_vodovi_vodovi_za_napajanje.md)
-   * PROSTIRANJE ELEKTROMAGNETNIH TALASA
+   * [PROSTIRANJE ELEKTROMAGNETNIH TALASA](prostiranje_elektromagnetnih_talasa.md)
    * MERENJA
        * Načini merenja
        * Merni instrumenti
