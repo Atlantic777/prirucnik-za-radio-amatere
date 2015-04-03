@@ -15,6 +15,7 @@
        * Digitalna obrada signala (DSP)
    * KOMPONENTE
        * Otpornik
+       * Kondenzator
 * Pravila i postupci
 * Propisi o amaterskoj i amaterskoj satelitskoj službi
 
