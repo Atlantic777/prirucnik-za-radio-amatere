@@ -47,6 +47,7 @@
        * Antenski vodovi (vodovi za napajanje)
    * PROSTIRANJE ELEKTROMAGNETNIH TALASA
    * MERENJA
+       * Načini merenja
 * Pravila i postupci
 * Propisi o amaterskoj i amaterskoj satelitskoj službi
 
