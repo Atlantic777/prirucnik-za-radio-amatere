@@ -34,7 +34,7 @@
        * [Diskretni vremenski signali i sistemi (DSP sistemi)](diskretni_vremenski_signali_i_sistemi_dsp_sistemi.md)
    * [PRIJEMNICI](prijemnici.md)
        * [Vrste](vrste.md)
-       * Blok šeme
+       * [Blok šeme](blok_seme.md)
        * Princip rada i funkcija (po stepenima prijemnika)
        * Karakteristike prijemnika
    * PREDAJNICI
