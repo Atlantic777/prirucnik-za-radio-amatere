@@ -36,7 +36,7 @@
        * [Vrste](vrste.md)
        * [Blok šeme](blok_seme.md)
        * [Princip rada i funkcija (po stepenima prijemnika)](princip_rada_i_funkcija_po_stepenima_prijemnika.md)
-       * Karakteristike prijemnika
+       * [Karakteristike prijemnika](karakteristike_prijemnika.md)
    * PREDAJNICI
        * Vrste
        * Blok šeme
