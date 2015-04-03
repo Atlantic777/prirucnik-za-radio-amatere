@@ -12,7 +12,7 @@
        * [Nesinusoidalni signal](nesinusoidalni_signal.md)
        * [Modulisani signal](modulisani_signal.md)
        * [Snaga i energija](snaga_i_energija.md)
-       * Digitalna obrada signala (DSP)
+       * [Digitalna obrada signala (DSP)](digitalna_obrada_signala_dsp.md)
    * KOMPONENTE
        * Otpornik
        * Kondenzator
