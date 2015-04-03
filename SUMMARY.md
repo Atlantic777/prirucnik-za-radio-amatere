@@ -53,6 +53,7 @@
        * Smetnje koje se javljaju na elektronskim uređajima
        * Uzroci smetnji na el.uređajima
        * Mere zaštite od smetnji
+   * ZAŠTITA OD ELEKTRIČNE STRUJE (Mere tehničke zaštite)
 * Pravila i postupci
 * Propisi o amaterskoj i amaterskoj satelitskoj službi
 
