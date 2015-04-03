@@ -57,7 +57,7 @@
 * [NACIONALNA (SRPSKA) I MEĐUNARODNA PRAVILA I POSTUPCI](nacionalna_srpska_i_medunarodna_pravila_i_postupci.md)
    * [Fonetska abeceda](fonetska_abeceda.md)
    * [Q-kôd](q-kod.md)
-   * Skraćenice koje se upotrebljavaju u amaterskoj službi
+   * [Skraćenice koje se upotrebljavaju u amaterskoj službi](skracenice_koje_se_upotrebljavaju_u_amaterskoj_sluzbi.md)
    * Međunarodni znakovi za nesreće, saobraćaj u slučajevima opasnosti i komunikacije u slučajevima prirodnih katastrofa
    * Pozivni znaci
    * IARU plan frekvencijskih opsega, preporuke IARU
