@@ -8,7 +8,7 @@
        * [Električno polje](elektricno_polje.md)
        * [Magnetno polje](magnetno_polje.md)
        * [Elektromagnetno polje](elektromagnetno_polje.md)
-       * Sinusoidalni signal
+       * [Sinusoidalni signal](sinusoidalni_signal.md)
        * Nesinusoidalni signal
        * Modulisani signal
        * Snaga i energija
