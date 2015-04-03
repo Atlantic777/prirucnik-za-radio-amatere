@@ -1,0 +1,2 @@
+# Toplotna disipacija
+
