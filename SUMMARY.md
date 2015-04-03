@@ -55,5 +55,6 @@
        * Mere zaštite od smetnji
    * ZAŠTITA OD ELEKTRIČNE STRUJE (Mere tehničke zaštite)
 * NACIONALNA (SRPSKA) I MEĐUNARODNA PRAVILA I POSTUPCI
+   * Fonetska abeceda
 * Propisi o amaterskoj i amaterskoj satelitskoj službi
 
