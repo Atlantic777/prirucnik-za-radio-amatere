@@ -1,0 +1,2 @@
+# Izvori napajanja (ispravljači)
+
