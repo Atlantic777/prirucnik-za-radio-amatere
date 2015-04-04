@@ -64,7 +64,7 @@
    * [Označavanje radio-emisija](oznacavanje_radio-emisija.md)
    * [Društveni značaj i operativne procedure](drustveni_znacaj_i_operativne_procedure.md)
 * [NACIONALNI (SRPSKI) I MEĐUNARODNI PROPISI O AMATERSKOJ I AMATERSKOJ SATELITSKOJ SLUŽBI](nacionalni_srpski_i_medunarodni_propisi_o_amaterskoj_i_amaterskoj_satelitskoj_sluzbi.md)
-   * Radio-komunikacioni propisi ITU (ITU-RR)
+   * [Radio-komunikacioni propisi ITU (ITU-RR)](radio-komunikacioni_propisi_itu_itu-rr.md)
    * Propisi CEPT-a
    * Zakoni R.Srbije, pravilnici, propisi i uslovi za dozvole
 
