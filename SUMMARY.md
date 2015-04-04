@@ -66,5 +66,5 @@
 * [NACIONALNI (SRPSKI) I MEĐUNARODNI PROPISI O AMATERSKOJ I AMATERSKOJ SATELITSKOJ SLUŽBI](nacionalni_srpski_i_medunarodni_propisi_o_amaterskoj_i_amaterskoj_satelitskoj_sluzbi.md)
    * [Radio-komunikacioni propisi ITU (ITU-RR)](radio-komunikacioni_propisi_itu_itu-rr.md)
    * [Propisi CEPT-a](propisi_cept-a.md)
-   * Zakoni R.Srbije, pravilnici, propisi i uslovi za dozvole
+   * [Zakoni R.Srbije, pravilnici, propisi i uslovi za dozvole](zakoni_rsrbije,_pravilnici,_propisi_i_uslovi_za_dozvole.md)
 
