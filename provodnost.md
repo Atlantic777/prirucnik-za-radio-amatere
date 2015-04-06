@@ -16,4 +16,4 @@
 
 -Električna energija $$W = P * t$$
 
--Kapacitet baterije, amper čas $$Ah$$	
+-Kapacitet baterije, amper čas $$Ah$$
